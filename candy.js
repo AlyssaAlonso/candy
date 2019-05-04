@@ -1,7 +1,7 @@
 $(function () {
     $(document).scroll(function () {
-        var $nav = $("#mainNavbar");
-        $nav.toggleClass("scrolled", $(this).scrollTop() > 0);
+        var $nav = $('#mainNavbar');
+        $nav.toggleClass('scrolled', $(this).scrollTop() > 0);
     });
 });
 
