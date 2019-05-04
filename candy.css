@@ -3,6 +3,10 @@ body {
     font-family: 'Nunito', sans-serif;
 }
 
+.row {
+    margin: 0px;
+}
+
 .content {
     margin: 50px 0px 0px;
 }
@@ -14,7 +18,7 @@ body {
 }
 
 .contentText p {
-    color: #F294B8;
+    color: #8F6382;
     font-weight: 100;
     font-size: 1.25rem;
     line-height: 2;
