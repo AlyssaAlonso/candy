@@ -1,2 +1,2 @@
 # candy
-# https://sqlyss.github.io/candy/
+# https://alyssaalonso.github.io/candy/
